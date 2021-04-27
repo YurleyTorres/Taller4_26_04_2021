@@ -11,7 +11,7 @@ let rta = prompt("Quiere el huevo frito?"+cadena());
 // let r = new Boolean(rta);
 
 if(rta.toUpperCase()=="SI"){
-    alert("Lo frio");
+    alert("Lo frito");
 } else {
     alert("Lo hago hervido");
     let sal = prompt("Quiere sal?"+cadena());
